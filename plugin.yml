@@ -1,0 +1,7 @@
+---
+name: PracticeCore
+version: 1.0
+api: 4.0.0
+main: PracticeCore\Main
+src-namespace-prefix: PracticeCore
+...

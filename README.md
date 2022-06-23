@@ -1,2 +1,1 @@
 # PracticeCore
-PracticeCore Plugin
